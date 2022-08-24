@@ -3,12 +3,12 @@ buildscript {
     ext {
         kotlinVersion = "1.6.21"
         hiltVersion = '2.42'
-        roomVersion = "2.3.0"
+        roomVersion = "2.4.3"
         navigationVersion = "2.4.2"
         lifecycleVersion = "2.5.0"
         appCompatVersion = "1.4.2"
         constraintLayoutVersion = "2.1.4"
-        fireStoreVersion = "24.2.1"
+        fireStoreVersion = "24.2.2"
         coordinatorLayoutVersion = "1.2.0"
         legacySupportVersion = "1.0.0"
         gsonVersion = "2.9.0"
